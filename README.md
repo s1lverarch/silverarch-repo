@@ -82,3 +82,10 @@ This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silverarc
 
 </div>
 
+## Your Pkgs
+
+If you Want To Put your Pkg (Linux) Talk with Silvercore in "s1lv3rcore@proton.me" (Free 100%)
+
+2026 Copyright Silvercore : See more in [GPL-v3.0](https://github.com/iyed-one-st/silverarch-repo/blob/main/LICENSE)
+
+Made in Tunisia
