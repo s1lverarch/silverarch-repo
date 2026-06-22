@@ -60,9 +60,6 @@ the first Tunisian-Arabic Arch-based Linux distribution
 
 <div align="center"><a href="https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md"><img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-project.svg" alt="Support Palestine" style="width: 100%;"></a></div>
 
-## License
-
-This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silverarch-repo/blob/main/LICENSE)
 
 ## Social Media 
 
@@ -86,6 +83,12 @@ This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silverarc
 
 If you Want To Put your Pkg (Linux) Talk with Silvercore in "s1lv3rcore@proton.me" (Free 100%)
 
-2026 Copyright Silvercore : See more in [GPL-v3.0](https://github.com/iyed-one-st/silverarch-repo/blob/main/LICENSE)
+## License
+
+This Project Is Protected By [GPL-v3.0](https://github.com/iyed-one-st/silverarch-repo/blob/main/LICENSE)
+
+Included Software: All other packages retain their original licenses as provided by their respective upstream developers.
+                
+2026 Copyright Silvercore
 
 Made in Tunisia
