@@ -77,6 +77,11 @@ the first Tunisian-Arabic Arch-based Linux distribution
     <img src="https://img.shields.io/badge/Discord-Join_Silverarch_Community-5865F2?style=for-the-badge&logo=discord">
   </a>
 
+  <a href="https://s1lverarch.github.io/homewebsite/">
+    <img src="https://img.shields.io/badge/SilverArch-Linux_Website-5865F2?style=for-the-badge&logo=github">
+  </a>
+
+
 </div>
 
 ## Your Pkgs
